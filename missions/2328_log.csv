@@ -1,0 +1,10 @@
+2023-08-10 08:15:54,2328,Running: takeoff.go
+2023-08-10 08:15:54,2328,Refueling complete
+2023-08-10 08:15:55,2328,loading complete: bombs
+2023-08-10 08:16:00,2328,Taking off ...
+2023-08-10 08:16:02,2328,Error during takeoff
+2023-08-10 08:16:05,2328,Error during mode change
+2023-08-10 08:16:05,2328,Error during navigation:Unable to connect to vehicle (2328: 10.56.74.242:22256)
+2023-08-10 14:10:27,2328,Running: quickLoad.go
+2023-08-10 14:10:45,2328,Refueling complete
+2023-08-10 14:11:27,2328,loading complete: bombs

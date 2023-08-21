@@ -1,0 +1,1161 @@
+exercise:
+  id: 16
+  maximum_latitude: 50.9107
+  maximum_longitude: -59.5136
+  minimum_latitude: 45.202
+  minimum_longitude: -69.0857
+  name: South Canada Sea
+infrastructure:
+  177:
+    hitpoints: 100
+    id: 177
+    latitude: 46.116
+    longitude: -64.6753
+    name: GALLADI-AB
+    team_id: 43
+    type: Airbase
+  178:
+    hitpoints: 100
+    id: 178
+    latitude: 47.0074
+    longitude: -65.4493
+    name: GAST-AB
+    team_id: 43
+    type: Airbase
+  179:
+    hitpoints: 100
+    id: 179
+    latitude: 45.8693
+    longitude: -66.5328
+    name: GELEEN-AB
+    team_id: 43
+    type: Airbase
+  182:
+    hitpoints: 100
+    id: 182
+    latitude: 46.16
+    longitude: -60.046
+    name: BELL-AB
+    team_id: 43
+    type: Airbase
+  183:
+    hitpoints: 100
+    id: 183
+    latitude: 46.165
+    longitude: -60.7836
+    name: BORGIN-AB
+    team_id: 43
+    type: Airbase
+  184:
+    hitpoints: 100
+    id: 184
+    latitude: 45.6114
+    longitude: -62.6224
+    name: BROADMOOR-AB
+    team_id: 43
+    type: Airbase
+  187:
+    hitpoints: 100
+    id: 187
+    latitude: 49.1355
+    longitude: -61.7975
+    name: HOPE--AB
+    team_id: 45
+    type: Airbase
+  188:
+    hitpoints: 100
+    id: 188
+    latitude: 49.406
+    longitude: -62.4835
+    name: HEPHAESTUS--FORT
+    team_id: 45
+    type: Fort
+  189:
+    hitpoints: 100
+    id: 189
+    latitude: 49.559
+    longitude: -63.104
+    name: MONARCH--FORT
+    team_id: 45
+    type: Fort
+  190:
+    hitpoints: 100
+    id: 190
+    latitude: 49.7725
+    longitude: -63.8525
+    name: TARTARUS--FORT
+    team_id: 45
+    type: Fort
+  191:
+    hitpoints: 100
+    id: 191
+    latitude: 49.1418
+    longitude: -62.2238
+    name: EMERALD-VALE-AMM
+    team_id: 45
+    type: Depot
+  192:
+    hitpoints: 100
+    id: 192
+    latitude: 49.5026
+    longitude: -62.6374
+    name: ERYDAN-FUEL
+    team_id: 45
+    type: Depot
+  193:
+    hitpoints: 100
+    id: 193
+    latitude: 49.6605
+    longitude: -63.6695
+    name: SCYLLA-TL
+    team_id: 45
+    type: Depot
+  
+  201:
+    hitpoints: 100
+    id: 201
+    latitude: 46.6688
+    longitude: -64.8736
+    name: DENUL--FUEL
+    team_id: 43
+    type: Depot
+  202:
+    hitpoints: 100
+    id: 202
+    latitude: 46.4792
+    longitude: -64.7223
+    name: MEANAS--FUEL
+    team_id: 43
+    type: Depot
+  203:
+    hitpoints: 100
+    id: 203
+    latitude: 46.0777
+    longitude: -66.0595
+    name: TELANN--AMM
+    team_id: 43
+    type: Depot
+  204:
+    hitpoints: 100
+    id: 204
+    latitude: 46.0398
+    longitude: -65.8672
+    name: THYRLLAN--TL
+    team_id: 43
+    type: Depot
+  205:
+    hitpoints: 100
+    id: 205
+    latitude: 46.14
+    longitude: -65.9042
+    name: GALAIN-AB
+    team_id: 43
+    type: Airbase
+  206:
+    hitpoints: 100
+    id: 206
+    latitude: 45.9791
+    longitude: -65.1371
+    name: DEMALAIN--WMD
+    team_id: 43
+    type: Depot
+  207:
+    hitpoints: 100
+    id: 207
+    latitude: 46.152
+    longitude: -67.61
+    name: RASHAN-WMD
+    team_id: 43
+    type: Depot
+  208:
+    hitpoints: 100
+    id: 208
+    latitude: 45.8368
+    longitude: -61.286
+    name: TATTINGS--AMM
+    team_id: 43
+    type: Depot
+  209:
+    hitpoints: 100
+    id: 209
+    latitude: 45.654
+    longitude: -60.966
+    name: MUNGO--FUEL
+    team_id: 43
+    type: Depot
+  210:
+    hitpoints: 100
+    id: 210
+    latitude: 45.5865
+    longitude: -62.6448
+    name: JAPES--FUEL
+    team_id: 43
+    type: Depot
+  211:
+    hitpoints: 100
+    id: 211
+    latitude: 45.62
+    longitude: -61.9913
+    name: GAUNT--TL
+    team_id: 43
+    type: Depot
+  212:
+    hitpoints: 100
+    id: 212
+    latitude: 45.3715
+    longitude: -63.2762
+    name: KNOCKTURN--WMD
+    team_id: 43
+    type: Depot
+  213:
+    hitpoints: 100
+    id: 213
+    latitude: 46.8691
+    longitude: -60.497
+    name: GAMBOL--WMD
+    team_id: 43
+    type: Depot
+  215:
+    hitpoints: 100
+    id: 215
+    latitude: 45.6515
+    longitude: -61.3699
+    name: BURBAGE-AB
+    team_id: 43
+    type: Airbase
+  256:
+    hitpoints: 100
+    id: 256
+    latitude: 47.4232
+    longitude: -61.7744
+    name: UNRELIABLE--AB
+    team_id: 45
+    type: Airbase  
+  259:
+    hitpoints: 100
+    id: 259
+    latitude: 45.395
+    longitude: -63.2145
+    name: M-KIA
+    team_id: 50
+    type: Airbase
+  260:
+    hitpoints: 100
+    id: 260
+    latitude: 49.3325
+    longitude: -62.902
+    name: H-EIA
+    team_id: 50
+    type: Airbase
+  261:
+    hitpoints: 100
+    id: 261
+    latitude: 48.0645
+    longitude: -65.4615
+    name: H-TIA
+    team_id: 50
+    type: Airbase
+  262:
+    hitpoints: 100
+    id: 262
+    latitude: 50.28
+    longitude: -63.6025
+    name: V-RIA
+    team_id: 50
+    type: Airbase
+  263:
+    hitpoints: 100
+    id: 263
+    latitude: 50.2575
+    longitude: -60.676
+    name: V-EIA
+    team_id: 50
+    type: Airbase
+  264:
+    hitpoints: 100
+    id: 264
+    latitude: 47.6295
+    longitude: -65.729
+    name: H-BIA
+    team_id: 50
+    type: Airbase
+  265:
+    hitpoints: 100
+    id: 265
+    latitude: 45.3075
+    longitude: -65.886
+    name: M-GIA
+    team_id: 50
+    type: Airbase
+  266:
+    hitpoints: 100
+    id: 266
+    latitude: 49.13
+    longitude: -68.201
+    name: V-SIA
+    team_id: 50
+    type: Airbase
+  267:
+    hitpoints: 100
+    id: 267
+    latitude: 46.267
+    longitude: -60.1255
+    name: M-BIA
+    team_id: 50
+    type: Airbase
+  268:
+    hitpoints: 100
+    id: 268
+    latitude: 48.4777
+    longitude: -68.4977
+    name: Logistics-Port-01
+    team_id: 50
+    type: Port
+  269:
+    hitpoints: 100
+    id: 269
+    latitude: 50.1903
+    longitude: -61.8394
+    name: Logistics-Port-2
+    team_id: 50
+    type: Port
+  270:
+    hitpoints: 100
+    id: 270
+    latitude: 50.1996
+    longitude: -66.379
+    name: Logistics-Port-3
+    team_id: 50
+    type: Port
+  271:
+    hitpoints: 100
+    id: 271
+    latitude: 50.157
+    longitude: -66.4603
+    name: Logistics-Port-4
+    team_id: 50
+    type: Port
+  272:
+    hitpoints: 100
+    id: 272
+    latitude: 50.4712
+    longitude: -59.6078
+    name: Logistics-Port-5
+    team_id: 50
+    type: Port
+  273:
+    hitpoints: 100
+    id: 273
+    latitude: 50.2378
+    longitude: -63.6084
+    name: Logistics-Port-6
+    team_id: 50
+    type: Port
+  274:
+    hitpoints: 100
+    id: 274
+    latitude: 45.7384
+    longitude: -62.6891
+    name: Logistics-Port-7
+    team_id: 50
+    type: Port
+  275:
+    hitpoints: 100
+    id: 275
+    latitude: 47.3813
+    longitude: -61.8575
+    name: Logistics-Port-8
+    team_id: 50
+    type: Port
+  276:
+    hitpoints: 100
+    id: 276
+    latitude: 48.8408
+    longitude: -67.5649
+    name: Logistics-Port-9
+    team_id: 50
+    type: Port
+  277:
+    hitpoints: 100
+    id: 277
+    latitude: 50.2145
+    longitude: -60.6893
+    name: Logistics-Port-10
+    team_id: 50
+    type: Port
+  278:
+    hitpoints: 100
+    id: 278
+    latitude: 49.2324
+    longitude: -68.1358
+    name: Logistics-Port-11
+    team_id: 50
+    type: Port
+  279:
+    hitpoints: 100
+    id: 279
+    latitude: 50.1832
+    longitude: -61.2646
+    name: Logistics-Port-12
+    team_id: 50
+    type: Port
+  292:
+    hitpoints: 100
+    id: 292
+    latitude: 49.6
+    longitude: -63.4142
+    name: IT-HALCYON-1
+    team_id: 45
+    type: NetworkNode
+  293:
+    hitpoints: 100
+    id: 293
+    latitude: 49.2675
+    longitude: -62.4995
+    name: IT-HALCYON-2
+    team_id: 45
+    type: NetworkNode
+  294:
+    hitpoints: 100
+    id: 294
+    latitude: 47.6
+    longitude: -61.4587
+    name: IT-HALCYON-3
+    team_id: 45
+    type: NetworkNode
+  295:
+    hitpoints: 100
+    id: 295
+    latitude: 46.1175
+    longitude: -64.7835
+    name: IT-MALAZAN-3610
+    team_id: 43
+    type: NetworkNode
+  296:
+    hitpoints: 100
+    id: 296
+    latitude: 45.7247
+    longitude: -62.687
+    name: IT-MALAZAN-2154
+    team_id: 43
+    type: NetworkNode
+  297:
+    hitpoints: 100
+    id: 297
+    latitude: 46.1265
+    longitude: -60.2173
+    name: IT-MALAZAN-3
+    team_id: 43
+    type: NetworkNode
+  298:
+    hitpoints: 100
+    id: 298
+    latitude: 46.2515
+    longitude: -63.137
+    name: IT-MALAZAN-4
+    team_id: 43
+    type: NetworkNode
+  299:
+    hitpoints: 100
+    id: 299
+    latitude: 47.3732
+    longitude: -61.9489
+    name: IT-MALAZAN-5
+    team_id: 43
+    type: NetworkNode
+  300:
+    hitpoints: 100
+    id: 300
+    latitude: 45.983
+    longitude: -66.655
+    name: PI-MALAZAN-1
+    team_id: 43
+    type: Datacenter
+  301:
+    hitpoints: 100
+    id: 301
+    latitude: 45.813
+    longitude: -64.215
+    name: PI-MALAZAN-2
+    team_id: 43
+    type: Datacenter
+  302:
+    hitpoints: 100
+    id: 302
+    latitude: 45.611
+    longitude: -61.6125
+    name: PI-MALAZAN-3
+    team_id: 43
+    type: Datacenter
+  303:
+    hitpoints: 100
+    id: 303
+    latitude: 49.308
+    longitude: -62.094
+    name: PI-HALCYON-1
+    team_id: 45
+    type: Datacenter
+  304:
+    hitpoints: 100
+    id: 304
+    latitude: 49.476
+    longitude: -63.5111
+    name: PI-HALCYON-2
+    team_id: 45
+    type: Datacenter
+  305:
+    hitpoints: 100
+    id: 305
+    latitude: 48.527
+    longitude: -64.2158
+    name: PI-HALCYON-3
+    team_id: 45
+    type: Datacenter  
+  367:
+    hitpoints: 100
+    id: 367
+    latitude: 49.0745
+    longitude: -61.875
+    name: STELLAR BAY
+    team_id: 50
+    type: Port
+  369:
+    hitpoints: 100
+    id: 369
+    latitude: 46.5625
+    longitude: -63.6765
+    name: PORT EDGEWATER
+    team_id: 45
+    type: Port  
+  370:
+    hitpoints: 100
+    id: 370
+    latitude: 45.26
+    longitude: -66.0657
+    name: PORT RASHAN
+    team_id: 43
+    type: Port
+  388:
+    hitpoints: 100
+    id: 388
+    latitude: 46.2109
+    longitude: -60.2462
+    name: Logistics-Port-13
+    team_id: 50
+    type: Port
+  389:
+    hitpoints: 100
+    id: 389
+    latitude: 48.7411
+    longitude: -69.0531
+    name: Logistics-Port-14
+    team_id: 50
+    type: Port
+  415:
+    hitpoints: 100
+    id: 415
+    latitude: 48.067
+    longitude: -66.2941
+    name: Port-Skaro
+    team_id: 50
+    type: Port
+  430:
+    hitpoints: 100
+    id: 430
+    latitude: 47.6275
+    longitude: -61.416
+    name: GRUNTLE-AB
+    team_id: 43
+    type: Airbase
+  436:
+    hitpoints: 100
+    id: 436
+    latitude: 46.22
+    longitude: -61.3
+    name: KORELI-TL
+    team_id: 43
+  441:
+    hitpoints: 100
+    id: 441
+    latitude: 47.577
+    longitude: -65.87
+    name: RANGE
+    team_id: 45
+    type: Fort  
+  495:
+    hitpoints: 100
+    id: 495
+    latitude: 45.9577
+    longitude: -65.7500
+    name: FORT-DARUJHISTAN
+    team_id: 43
+    type: Fort
+  496:
+    hitpoints: 100
+    id: 496
+    latitude: 46.4425
+    longitude: -63.6400
+    name: FORT-MALAZ
+    team_id: 43
+    type: Fort
+  497:
+    hitpoints: 100
+    id: 497
+    latitude: 46.1450
+    longitude: -60.3760
+    name: FORT-KHARKANAS
+    team_id: 43
+    type: Fort
+  499:
+    hitpoints: 100
+    id: 499
+    latitude: 45.6140
+    longitude: -61.3220
+    name: FORT-DRAK
+    team_id: 43
+    type: Fort
+  2171:
+    id: 2171
+    nation: Valinor
+    team_id: 42
+    name: MORANNON-009
+    hitpoints: 100
+    type: RADAR
+    latitude: 50.4
+    longitude: -63.4534
+  2172:
+    id: 2172
+    nation: Valinor
+    team_id: 42
+    name: MORANNON-010
+    hitpoints: 100
+    type: RADAR
+    latitude: 49.465
+    longitude: -68.1735
+  2265:
+    id: 2265
+    nation: Valinor
+    team_id: 42
+    name: MORANNON-011
+    hitpoints: 100
+    type: RADAR
+    latitude: 50.3511
+    longitude: -61.5852
+  2266:
+    id: 2266
+    nation: Valinor
+    team_id: 42
+    name: MORANNON-012
+    hitpoints: 100
+    type: RADAR
+    latitude: 50.3261
+    longitude: -66.0273
+  2735:
+    id: 2735
+    nation: Valinor
+    team_id: 42
+    name: MORANNON-014
+    hitpoints: 100
+    type: RADAR
+    latitude: 50.4541
+    longitude: -67.4163
+  2232:
+    id: 2232
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-015
+    hitpoints: 100
+    type: SAM
+    latitude: 50.7851
+    longitude: -64.1711
+  2233:
+    id: 2233
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-016
+    hitpoints: 100
+    type: SAM
+    latitude: 50.5765
+    longitude: -63.9025
+  2268:
+    id: 2268
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-019
+    hitpoints: 100
+    type: SAM
+    latitude: 50.4365
+    longitude: -60.7654
+  2269:
+    id: 2269
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-020
+    hitpoints: 100
+    type: SAM
+    latitude: 50.4085
+    longitude: -62.1167
+  2270:
+    id: 2270
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-021
+    hitpoints: 100
+    type: SAM
+    latitude: 50.4645
+    longitude: -63.1165
+  2271:
+    id: 2271
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-022
+    hitpoints: 100
+    type: SAM
+    latitude: 49.5288
+    longitude: -67.9449
+  2272:
+    id: 2272
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-023
+    hitpoints: 100
+    type: SAM
+    latitude: 50.198
+    longitude: -67.0386
+  2273:
+    id: 2273
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-024
+    hitpoints: 100
+    type: SAM
+    latitude: 49.0955
+    longitude: -68.6206
+  2280:
+    id: 2280
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-025
+    hitpoints: 100
+    type: SAM
+    latitude: 50.4344
+    longitude: -66.3866
+  2541:
+    id: 2541
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-026
+    hitpoints: 100
+    type: SAM
+    latitude: 50.4344
+    longitude: -66.3866
+  2264:
+    id: 2264
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-027
+    hitpoints: 100
+    type: SAM
+    latitude: 48.999
+    longitude: -61.0261
+  2263:
+    id: 2263
+    nation: Valinor
+    team_id: 42
+    name: RINGWRAITH-028
+    hitpoints: 100
+    type: SAM
+    latitude: 48.9213
+    longitude: -60.2549
+  2615:
+    hitpoints: 100
+    id: 2615
+    latitude: 46.669
+    longitude: -65.438
+    name: BURN-G-000
+    team_id: 43
+    type: SAM
+  2616:
+    hitpoints: 100
+    id: 2616
+    latitude: 46.147
+    longitude: -65.875
+    name: BURN-G-001
+    team_id: 43
+    type: SAM
+  2617:
+    hitpoints: 100
+    id: 2617
+    latitude: 46.296
+    longitude: -64.852
+    name: BURN-G-002
+    team_id: 43
+    type: SAM
+  2618:
+    hitpoints: 100
+    id: 2618
+    latitude: 46.303
+    longitude: -63.384
+    name: BURN-G-003
+    team_id: 43
+    type: SAM
+  2619:
+    hitpoints: 100
+    id: 2619
+    latitude: 45.6485
+    longitude: -61.6663
+    name: BURN-G-004
+    team_id: 43
+    type: SAM
+  2620:
+    hitpoints: 100
+    id: 2620
+    latitude: 46.3421
+    longitude: -60.4256
+    name: BURN-G-005
+    team_id: 43
+    type: SAM
+  2621:
+    id: 2621
+    nation: Malazan
+    team_id: 43
+    name: UNKNOWN
+    hitpoints: 100
+    type: SAM
+    latitude: 46.3380
+    longitude: -65.5530
+  2622:
+    hitpoints: 100
+    id: 2622
+    latitude: 46.374
+    longitude: -63.573
+    name: GEAR-G-001
+    team_id: 43
+    type: RADAR
+  2623:
+    hitpoints: 100
+    id: 2623
+    latitude: 46.017
+    longitude: -61.559
+    name: GEAR-G-002
+    team_id: 43
+    type: RADAR
+  2624:
+    hitpoints: 100
+    id: 2624
+    latitude: 46.732
+    longitude: -60.4163
+    name: GEAR-G-003
+    team_id: 43
+    type: RADAR
+  4162:
+    id: 4162
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-005
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 48.9391
+    longitude: -68.747
+  4163:
+    id: 4163
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-006
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 49.1299
+    longitude: -68.2574
+  4164:
+    id: 4164
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-007
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 49.3019
+    longitude: -68.0587
+  4165:
+    id: 4165
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-008
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 49.3259
+    longitude: -67.3797
+  4166:
+    id: 4166
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-009
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 49.6442
+    longitude: -67.2042
+  4167:
+    id: 4167
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-010
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 49.8701
+    longitude: -67.0386
+  4168:
+    id: 4168
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-011
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.0664
+    longitude: -66.7895
+  4169:
+    id: 4169
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-012
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.176
+    longitude: -66.5681
+  4170:
+    id: 4170
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-013
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2332
+    longitude: -66.3273
+  4171:
+    id: 4171
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-014
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2858
+    longitude: -65.8369
+  4172:
+    id: 4172
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-015
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.3359
+    longitude: -65.338
+  4173:
+    id: 4173
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-016
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2917
+    longitude: -64.8715
+  4174:
+    id: 4174
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-017
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.3477
+    longitude: -64.4419
+  4175:
+    id: 4175
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-018
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2858
+    longitude: -64.1833
+  4176:
+    id: 4176
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-019
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.3389
+    longitude: -63.8276
+  4177:
+    id: 4177
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-020
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2267
+    longitude: -63.4165
+  4178:
+    id: 4178
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-021
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.3064
+    longitude: -62.9037
+  4179:
+    id: 4179
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-022
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2946
+    longitude: -62.4834
+  4180:
+    id: 4180
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-023
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2533
+    longitude: -62.0353
+  4181:
+    id: 4181
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-024
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.129
+    longitude: -61.6935
+  4182:
+    id: 4182
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-025
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2237
+    longitude: -61.3101
+  4183:
+    id: 4183
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-026
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2295
+    longitude: -61.0792
+  4184:
+    id: 4184
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-027
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2324
+    longitude: -60.8066
+  4185:
+    id: 4185
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-028
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2738
+    longitude: -60.3817
+  4186:
+    id: 4186
+    nation: Valinor
+    team_id: 42
+    name: NUMENOR-029
+    hitpoints: 100
+    type: ANTI-SHIP
+    latitude: 50.2531
+    longitude: -60.1091
+  176:
+    id: 176
+    nation: Halcyon
+    team_id: 45
+    name: GroundBreaker
+    hitpoints: 100
+    type: Airbase
+    latitude: 49.837
+    longitude: -64.287
+  332:
+    id: 332
+    nation: Valinor
+    team_id: 42
+    name: Unknown
+    hitpoints: 100
+    type: Airbase
+    latitude: 50.000
+    longitude: -65.759
+  4445:
+    id: 4445
+    nation: Valinor
+    team_id: 42
+    name: Unknown
+    hitpoints: 100
+    type: Airbase
+    latitude: 50.6765
+    longitude: -63.9025
+  4446:
+    id: 4446
+    nation: Valinor
+    team_id: 42
+    name: Unknown
+    hitpoints: 100
+    type: Airbase
+    latitude: 50.8405
+    longitude: -62.4290
+  4442:
+    id: 4442
+    nation: Valinor
+    team_id: 42
+    name: Rhun
+    hitpoints: 100
+    type: Airbase
+    latitude: 49.0841
+    longitude: -60.9777
+  4443:
+    id: 4443
+    nation: Valinor
+    team_id: 42
+    name: PilferedPlans-Shipment-2
+    hitpoints: 100
+    type: Airbase
+    latitude: 50.0333
+    longitude: -65.7866
+  4444:
+    id: 4444
+    nation: Valinor
+    team_id: 42
+    name: Angbad
+    hitpoints: 100
+    type: Airbase
+    latitude: 49.0181
+    longitude: -60.1556
+
+    
+teams:
+  42:
+    color: brown
+    id: 42
+    name: Valinor
+  43:
+    color: blue
+    id: 43
+    name: Malazan
+  45:
+    color: green
+    id: 45
+    name: Halcyon
+  46:
+    color: orange
+    id: 46
+    name: Gallifrey
+  50:
+    color: purple
+    id: 50
+    name: Civilian

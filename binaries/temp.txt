@@ -1,0 +1,50 @@
+**Requirements**:
+=============
+Make sure you have a resources folder as a sibling folder to any binaries with your creds.txt inside:
+folder
+| - folder
+  | - PrintDroneInfo
+  | - FireCamera
+  | - droneControl
+  | - transportCargoBetween2Bases
+| - resources
+  | - creds.txt
+
+If you are getting permission errors, run `chmod 777 <binaryname>`  first, i.e:
+```$ chmod 777 PrintDroneInfo
+$ ./PrintDroneInfo
+```
+
+
+**PrintDroneInfo**:
+A tool for finding the current Lat, Lon, Alt, Vel, and Fuel for a provided IFF
+Also, make sure to run  or you won't be able to run it
+
+Usage:
+`./PrintDroneInfo`
+It will then prompt the user for an IFF
+```$ ./PrintDroneInfo
+Enter an integer for IFFID: <the IFF you want>
+```
+
+
+**FireCamera**:
+A tool for taking a picture for a drone with the provided IFF
+
+Usage:
+`./FireCamera`
+It will then prompt the user for an IFF
+```$ ./FireCamera
+Enter an integer for IFFID: <the IFF you want>
+```
+
+
+**transportCargoBetween2Bases**
+A tool for loading cargo aircraft, flying them to Gruntel, Amyrlin, and then unloads the supplies
+
+Usage:
+`./transportCargoBetween2Bases`
+It will then prompt the user for an IFF
+```$ ./transportCargoBetween2Bases
+Enter an integer for IFFID: <the IFF you want>
+```

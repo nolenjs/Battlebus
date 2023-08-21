@@ -1,0 +1,10 @@
+module liam-tool
+
+go 1.18
+
+require git.ace/icarus/icarusclient/v5 v5.4.4
+
+require (
+	github.com/gorilla/websocket v1.5.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
+)

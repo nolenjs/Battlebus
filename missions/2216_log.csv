@@ -1,0 +1,71 @@
+2023-08-09 16:07:19,2216,Running: quickLoad.go
+2023-08-09 16:07:20,2216,Refueling complete
+2023-08-09 16:07:20,2216,loading complete: missiles
+2023-08-09 16:12:57,2216,Running: takeoff.go
+2023-08-09 16:12:58,2216,Refueling complete
+2023-08-09 16:12:58,2216,loading complete: missiles
+2023-08-09 16:13:03,2216,Taking off ...
+2023-08-09 17:31:24,2216,Running: takeoff.go
+2023-08-09 17:31:24,2216,Refueling complete
+2023-08-09 17:31:25,2216,loading complete: missiles
+2023-08-09 17:31:30,2216,Taking off ...
+2023-08-10 05:18:50,2216,Running: quickLoad.go
+2023-08-10 05:18:50,2216,Refueling complete
+2023-08-10 05:18:51,2216,loading complete: missiles
+2023-08-10 05:19:00,2216,Running: takeoff.go
+2023-08-10 05:19:00,2216,Refueling complete
+2023-08-10 05:19:00,2216,loading complete: missiles
+2023-08-10 05:19:06,2216,Taking off ...
+2023-08-10 06:30:04,2216,Running: takeoff.go
+2023-08-10 06:30:04,2216,Refueling complete
+2023-08-10 06:30:05,2216,loading complete: missiles
+2023-08-10 06:30:10,2216,Taking off ...
+2023-08-10 06:30:16,2216,Running: takeoff.go
+2023-08-10 06:32:47,2216,Running: takeoff.go
+2023-08-10 06:32:50,2216,Running: takeoff.go
+2023-08-10 06:36:12,2216,Running: takeoff.go
+2023-08-10 06:38:58,2216,Running: quickLoad.go
+2023-08-10 06:38:59,2216,Refueling complete
+2023-08-10 06:39:00,2216,loading complete: missiles
+2023-08-10 06:50:06,2216,Running: takeoff.go
+2023-08-10 06:50:06,2216,Refueling complete
+2023-08-10 06:50:07,2216,loading complete: missiles
+2023-08-10 06:50:12,2216,Taking off ...
+2023-08-10 06:51:32,2216,Running: takeoff.go
+2023-08-10 06:55:03,2216,Running: takeoff.go
+2023-08-10 07:22:22,2216,Running: takeoff.go
+2023-08-10 07:22:23,2216,Refueling complete
+2023-08-10 07:22:23,2216,loading complete: missiles
+2023-08-10 07:22:29,2216,Taking off ...
+2023-08-10 07:24:40,2216,Running: takeoff.go
+2023-08-10 07:29:38,2216,Running: takeoff.go
+2023-08-10 07:31:17,2216,Running: takeoff.go
+2023-08-10 07:38:38,2216,Running: takeoff.go
+2023-08-10 07:38:48,2216,Running: takeoff.go
+2023-08-10 07:38:59,2216,Running: takeoff.go
+2023-08-10 07:50:46,2216,Running: takeoff.go
+2023-08-10 07:55:00,2216,Running: takeoff.go
+2023-08-10 07:55:44,2216,Running: takeoff.go
+2023-08-10 07:58:07,2216,Running: takeoff.go
+2023-08-10 07:58:45,2216,Running: takeoff.go
+2023-08-10 08:01:17,2216,Running: takeoff.go
+2023-08-10 08:14:49,2216,Running: takeoff.go
+2023-08-10 08:18:47,2216,Running: takeoff.go
+2023-08-10 08:21:09,2216,Running: takeoff.go
+2023-08-10 08:30:26,2216,Running: takeoff.go
+2023-08-10 08:30:46,2216,Running: takeoff.go
+2023-08-10 08:31:39,2216,Running: takeoff.go
+2023-08-10 09:36:35,2216,Running: quickLoad.go
+2023-08-10 09:36:36,2216,Refueling complete
+2023-08-10 09:36:36,2216,loading complete: missiles
+2023-08-10 09:38:24,2216,Running: quickLoad.go
+2023-08-10 09:38:25,2216,Refueling complete
+2023-08-10 09:38:26,2216,loading complete: missiles
+2023-08-10 09:43:31,2216,Running: quickLoad.go
+2023-08-10 09:43:31,2216,Refueling complete
+2023-08-10 09:43:31,2216,loading complete: missiles
+2023-08-10 09:44:02,2216,Running: takeoff.go
+2023-08-10 09:44:02,2216,Refueling complete
+2023-08-10 09:44:02,2216,loading complete: missiles
+2023-08-10 09:44:09,2216,Taking off ...
+2023-08-10 09:44:27,2216,Running: takeoff.go
